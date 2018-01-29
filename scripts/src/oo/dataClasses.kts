@@ -1,4 +1,4 @@
-package basics
+package oo
 
 run {
     data class Book(val title: String)

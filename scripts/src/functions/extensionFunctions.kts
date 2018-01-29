@@ -1,4 +1,4 @@
-package basics
+package functions
 
 fun Int.squared() = this * this
 

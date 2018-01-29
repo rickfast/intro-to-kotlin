@@ -1,4 +1,4 @@
-package basics
+package oo
 
 object Bob {
     val firstName = "Robert"

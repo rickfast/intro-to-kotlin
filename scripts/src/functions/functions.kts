@@ -1,4 +1,4 @@
-package basics
+package functions
 
 run {
     fun cube(x: Int): Int {

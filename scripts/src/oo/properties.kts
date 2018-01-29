@@ -1,4 +1,4 @@
-package basics
+package oo
 
 run {
     class Author(val first: String, val last: String) {

@@ -1,4 +1,1 @@
-run {
-    val x: Int? = null
-}
-
+val x: Int? = null

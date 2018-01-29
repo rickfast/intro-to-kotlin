@@ -1,4 +1,4 @@
-package basics
+package oo
 
 data class Widget(val id: Int)
 
