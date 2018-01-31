@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e588c934-27c8-407b-a38c-463f4e74abde" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/book-store/book-store.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/book-store/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/src/functions/generics.kts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/src/functions/inline.kts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/src/functions/reified.kts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/basics/booleans.kts" afterPath="$PROJECT_DIR$/scripts/src/basics/booleans.kts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/basics/equality.kts" afterPath="$PROJECT_DIR$/scripts/src/basics/equality.kts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/basics/returnBreakContinue.kts" afterPath="$PROJECT_DIR$/scripts/src/basics/returnBreakContinue.kts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/basics/strings.kts" afterPath="$PROJECT_DIR$/scripts/src/basics/strings.kts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/basics/variables.kts" afterPath="$PROJECT_DIR$/scripts/src/basics/variables.kts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/functions/extensionFunctions.kts" afterPath="$PROJECT_DIR$/scripts/src/functions/extensionFunctions.kts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/functions/functions.kts" afterPath="$PROJECT_DIR$/scripts/src/functions/functions.kts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/functions/lambdas.kts" afterPath="$PROJECT_DIR$/scripts/src/functions/lambdas.kts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/oo/classes.kts" afterPath="$PROJECT_DIR$/scripts/src/oo/classes.kts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/oo/objects2.kts" afterPath="$PROJECT_DIR$/scripts/src/oo/objects2.kts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/other/delegation.kts" afterPath="$PROJECT_DIR$/scripts/src/other/delegation.kts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/other/destructuring.kts" afterPath="$PROJECT_DIR$/scripts/src/other/destructuring.kts" />
-    </list>
+    <list default="true" id="e588c934-27c8-407b-a38c-463f4e74abde" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/book-store/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -110,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -483,12 +460,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517246368557</updated>
-      <workItem from="1517246369845" duration="14256000" />
+      <workItem from="1517246369845" duration="14399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14256000" />
+    <option name="totallyTimeSpent" value="14399000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1749" y="-213" width="2249" height="1417" extended-state="0" />
@@ -555,17 +532,17 @@
         <state relative-caret-position="-3486">
           <caret line="135" column="2" lean-forward="false" selection-start-line="135" selection-start-column="2" selection-end-line="135" selection-end-column="2" />
           <folding>
-            <marker date="1517412387000" expanded="true" signature="55526:55568" ph="..." />
-            <marker date="1517412387000" expanded="true" signature="55526:55586" ph="..." />
-            <marker date="1517412387000" expanded="true" signature="55526:55599" ph="..." />
-            <marker date="1517412387000" expanded="true" signature="55526:55614" ph="..." />
-            <marker date="1517412387000" expanded="true" signature="55649:56032" ph="..." />
-            <marker date="1517412387000" expanded="true" signature="55662:56017" ph="..." />
-            <marker date="1517412387000" expanded="true" signature="55697:56003" ph="..." />
-            <marker date="1517412387000" expanded="true" signature="55716:55988" ph="..." />
-            <marker date="1517412387000" expanded="true" signature="55790:55968" ph="..." />
-            <marker date="1517412387000" expanded="true" signature="55830:55934" ph="..." />
-            <marker date="1517412387000" expanded="true" signature="55851:55912" ph="..." />
+            <marker date="1517412388000" expanded="true" signature="55526:55568" ph="..." />
+            <marker date="1517412388000" expanded="true" signature="55526:55586" ph="..." />
+            <marker date="1517412388000" expanded="true" signature="55526:55599" ph="..." />
+            <marker date="1517412388000" expanded="true" signature="55526:55614" ph="..." />
+            <marker date="1517412388000" expanded="true" signature="55649:56032" ph="..." />
+            <marker date="1517412388000" expanded="true" signature="55662:56017" ph="..." />
+            <marker date="1517412388000" expanded="true" signature="55697:56003" ph="..." />
+            <marker date="1517412388000" expanded="true" signature="55716:55988" ph="..." />
+            <marker date="1517412388000" expanded="true" signature="55790:55968" ph="..." />
+            <marker date="1517412388000" expanded="true" signature="55830:55934" ph="..." />
+            <marker date="1517412388000" expanded="true" signature="55851:55912" ph="..." />
           </folding>
         </state>
       </provider>
@@ -933,7 +910,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>
