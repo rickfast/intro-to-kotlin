@@ -1,5 +1,6 @@
 package basics
 
+// Booleans
 val troo = true
 val phalse = false
 

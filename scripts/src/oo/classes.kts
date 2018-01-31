@@ -2,6 +2,7 @@ package oo
 
 class Pointless
 
+// Constructors
 run {
     class Point constructor(x: Int, y: Int) {
     }

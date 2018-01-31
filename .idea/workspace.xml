@@ -2,29 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e588c934-27c8-407b-a38c-463f4e74abde" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/src/other/delegation.kts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/src/other/destructuring.kts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/src/other/operatorOverloading.kts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/src/other/typeAliases.kts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/src/safety/elvisOperator.kts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/src/safety/nullableExtensions.kts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/src/safety/nullsInCollections.kts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/src/safety/safeCasts.kts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scripts/src/basics/classes.kts" afterPath="$PROJECT_DIR$/scripts/src/oo/classes.kts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scripts/src/basics/dataClasses.kts" afterPath="$PROJECT_DIR$/scripts/src/oo/dataClasses.kts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scripts/src/basics/extensionFunctions.kts" afterPath="$PROJECT_DIR$/scripts/src/functions/extensionFunctions.kts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scripts/src/basics/functions.kts" afterPath="$PROJECT_DIR$/scripts/src/functions/functions.kts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scripts/src/basics/interfaces1.kts" afterPath="$PROJECT_DIR$/scripts/src/oo/interfaces1.kts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scripts/src/basics/interfaces2.kts" afterPath="$PROJECT_DIR$/scripts/src/oo/interfaces2.kts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scripts/src/basics/lambdas.kts" afterPath="$PROJECT_DIR$/scripts/src/functions/lambdas.kts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scripts/src/basics/objects1.kts" afterPath="$PROJECT_DIR$/scripts/src/oo/objects1.kts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scripts/src/basics/objects2.kts" afterPath="$PROJECT_DIR$/scripts/src/oo/objects2.kts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scripts/src/basics/properties.kts" afterPath="$PROJECT_DIR$/scripts/src/oo/properties.kts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/book-store/book-store.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/book-store/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/src/functions/generics.kts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/src/functions/inline.kts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/src/functions/reified.kts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/safety/nullChecks.kts" afterPath="$PROJECT_DIR$/scripts/src/safety/nullChecks.kts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/safety/nullableTypes.kts" afterPath="$PROJECT_DIR$/scripts/src/safety/nullableTypes.kts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/basics/booleans.kts" afterPath="$PROJECT_DIR$/scripts/src/basics/booleans.kts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/basics/equality.kts" afterPath="$PROJECT_DIR$/scripts/src/basics/equality.kts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/basics/returnBreakContinue.kts" afterPath="$PROJECT_DIR$/scripts/src/basics/returnBreakContinue.kts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/basics/strings.kts" afterPath="$PROJECT_DIR$/scripts/src/basics/strings.kts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/basics/variables.kts" afterPath="$PROJECT_DIR$/scripts/src/basics/variables.kts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/functions/extensionFunctions.kts" afterPath="$PROJECT_DIR$/scripts/src/functions/extensionFunctions.kts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/functions/functions.kts" afterPath="$PROJECT_DIR$/scripts/src/functions/functions.kts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/functions/lambdas.kts" afterPath="$PROJECT_DIR$/scripts/src/functions/lambdas.kts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/oo/classes.kts" afterPath="$PROJECT_DIR$/scripts/src/oo/classes.kts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/oo/objects2.kts" afterPath="$PROJECT_DIR$/scripts/src/oo/objects2.kts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/other/delegation.kts" afterPath="$PROJECT_DIR$/scripts/src/other/delegation.kts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/src/other/destructuring.kts" afterPath="$PROJECT_DIR$/scripts/src/other/destructuring.kts" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/book-store/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,101 +36,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="nullChecks.kts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scripts/src/safety/nullChecks.kts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="40" column="24" lean-forward="false" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="elvisOperator.kts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/src/safety/elvisOperator.kts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nullableExtensions.kts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/src/safety/nullableExtensions.kts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nullsInCollections.kts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/src/safety/nullsInCollections.kts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="52" lean-forward="false" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="safeCasts.kts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/src/safety/safeCasts.kts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="delegation.kts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/src/other/delegation.kts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="operatorOverloading.kts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/src/other/operatorOverloading.kts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="destructuring.kts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/src/other/destructuring.kts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="423">
+              <caret line="28" column="43" lean-forward="false" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="typeAliases.kts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/src/other/typeAliases.kts">
+      <file leaf-file-name="generics.kts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/src/functions/generics.kts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            <state relative-caret-position="133">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nullableTypes.kts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/src/safety/nullableTypes.kts">
+      <file leaf-file-name="booleans.kts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/src/basics/booleans.kts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="collections.kts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/src/basics/collections.kts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inline.kts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/src/functions/inline.kts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book-store/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookStore.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book-store/src/main/kotlin/io/rickfast/books/BookStore.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compiler.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reified.kts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/src/functions/reified.kts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -148,13 +150,30 @@
         <option value="$PROJECT_DIR$/scripts/src/safety/nullableExtensions.kts" />
         <option value="$PROJECT_DIR$/scripts/src/safety/nullsInCollections.kts" />
         <option value="$PROJECT_DIR$/scripts/src/safety/safeCasts.kts" />
-        <option value="$PROJECT_DIR$/scripts/src/other/delegation.kts" />
         <option value="$PROJECT_DIR$/scripts/src/other/operatorOverloading.kts" />
         <option value="$PROJECT_DIR$/scripts/src/other/desctructuring.kts" />
-        <option value="$PROJECT_DIR$/scripts/src/other/destructuring.kts" />
         <option value="$PROJECT_DIR$/scripts/src/other/typeAliases.kts" />
         <option value="$PROJECT_DIR$/scripts/src/safety/nullableTypes.kts" />
         <option value="$PROJECT_DIR$/scripts/src/safety/nullChecks.kts" />
+        <option value="$PROJECT_DIR$/scripts/src/other/delegation.kts" />
+        <option value="$PROJECT_DIR$/scripts/src/basics/variables.kts" />
+        <option value="$PROJECT_DIR$/scripts/src/basics/strings.kts" />
+        <option value="$PROJECT_DIR$/scripts/src/basics/booleans.kts" />
+        <option value="$PROJECT_DIR$/scripts/src/basics/equality.kts" />
+        <option value="$PROJECT_DIR$/scripts/src/functions/functions.kts" />
+        <option value="$PROJECT_DIR$/scripts/src/basics/returnBreakContinue.kts" />
+        <option value="$PROJECT_DIR$/scripts/src/functions/lambdas.kts" />
+        <option value="$PROJECT_DIR$/scripts/src/oo/classes.kts" />
+        <option value="$PROJECT_DIR$/scripts/src/basics/generics.kts" />
+        <option value="$PROJECT_DIR$/scripts/src/functions/extensionFunctions.kts" />
+        <option value="$PROJECT_DIR$/scripts/src/oo/objects2.kts" />
+        <option value="$PROJECT_DIR$/scripts/src/other/destructuring.kts" />
+        <option value="$PROJECT_DIR$/scripts/src/functions/generics.kts" />
+        <option value="$PROJECT_DIR$/scripts/src/functions/reified.kts" />
+        <option value="$PROJECT_DIR$/scripts/src/functions/inline.kts" />
+        <option value="$PROJECT_DIR$/book-store/pom.xml" />
+        <option value="$PROJECT_DIR$/book-store/src/main/kotlin/io/rickfast/books/BookStore.kt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -163,6 +182,19 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1749" />
+    <option name="y" value="-213" />
+    <option name="width" value="2249" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -198,54 +230,58 @@
             <path>
               <item name="intro-to-kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="intro-to-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="libraries" type="462c0819:PsiDirectoryNode" />
+              <item name="book-store" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="intro-to-kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="intro-to-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="intro-to-kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="intro-to-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="book-store" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="intro-to-kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="intro-to-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="book-store" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basics" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="intro-to-kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="intro-to-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="book-store" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="functions" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="intro-to-kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="intro-to-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="book-store" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oo" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="intro-to-kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="intro-to-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="book-store" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="rickfast" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="intro-to-kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="intro-to-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="book-store" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="safety" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="rickfast" type="462c0819:PsiDirectoryNode" />
+              <item name="books" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,6 +298,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/book-store" />
       <recent name="$PROJECT_DIR$/scripts/src/oo" />
       <recent name="$PROJECT_DIR$/scripts/src/functions" />
     </key>
@@ -278,7 +315,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin script.typeAliases.kts">
+  <component name="RunManager" selected="Kotlin script.reified.kts">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -359,17 +396,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="delegation.kts" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" value="$PROJECT_DIR$/scripts/src/other/delegation.kts" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/scripts/src/other" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-    </configuration>
     <configuration name="destructuring.kts" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="filePath" value="$PROJECT_DIR$/scripts/src/other/destructuring.kts" />
@@ -381,9 +407,20 @@
       <option name="isAlternativeJrePathEnabled" value="false" />
       <envs />
     </configuration>
-    <configuration name="nullableExtensions.kts" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script" temporary="true" nameIsGenerated="true">
+    <configuration name="generics.kts" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" value="$PROJECT_DIR$/scripts/src/safety/nullableExtensions.kts" />
+      <option name="filePath" value="$PROJECT_DIR$/scripts/src/functions/generics.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/scripts/src/functions" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+    </configuration>
+    <configuration name="nullableTypes.kts" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" value="$PROJECT_DIR$/scripts/src/safety/nullableTypes.kts" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
       <option name="programParameters" />
@@ -392,14 +429,14 @@
       <option name="isAlternativeJrePathEnabled" value="false" />
       <envs />
     </configuration>
-    <configuration name="operatorOverloading.kts" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script" temporary="true" nameIsGenerated="true">
+    <configuration name="reified.kts" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" value="$PROJECT_DIR$/scripts/src/other/operatorOverloading.kts" />
+      <option name="filePath" value="$PROJECT_DIR$/scripts/src/functions/reified.kts" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
       <option name="programParameters" />
       <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/scripts/src/other" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/scripts/src/functions" />
       <option name="isAlternativeJrePathEnabled" value="false" />
       <envs />
     </configuration>
@@ -415,19 +452,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin script.nullableExtensions.kts" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin script.delegation.kts" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin script.operatorOverloading.kts" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin script.destructuring.kts" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin script.typeAliases.kts" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin script.destructuring.kts" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin script.typeAliases.kts" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin script.nullableTypes.kts" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin script.generics.kts" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin script.reified.kts" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin script.typeAliases.kts" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin script.destructuring.kts" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin script.operatorOverloading.kts" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin script.delegation.kts" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin script.nullableExtensions.kts" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin script.reified.kts" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin script.generics.kts" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin script.nullableTypes.kts" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin script.typeAliases.kts" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin script.destructuring.kts" />
       </list>
     </recent_temporary>
   </component>
@@ -446,15 +483,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517246368557</updated>
-      <workItem from="1517246369845" duration="2458000" />
+      <workItem from="1517246369845" duration="14256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2458000" />
+    <option name="totallyTimeSpent" value="14256000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <frame x="1749" y="-213" width="2249" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -465,11 +502,13 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980132" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19168591" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15813321" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -495,14 +534,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scripts/src/basics/booleans.kts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/scripts.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -524,17 +555,17 @@
         <state relative-caret-position="-3486">
           <caret line="135" column="2" lean-forward="false" selection-start-line="135" selection-start-column="2" selection-end-line="135" selection-end-column="2" />
           <folding>
-            <marker date="1517251173000" expanded="true" signature="41639:41681" ph="..." />
-            <marker date="1517251173000" expanded="true" signature="41639:41699" ph="..." />
-            <marker date="1517251173000" expanded="true" signature="41639:41712" ph="..." />
-            <marker date="1517251173000" expanded="true" signature="41639:41727" ph="..." />
-            <marker date="1517251173000" expanded="true" signature="41762:42145" ph="..." />
-            <marker date="1517251173000" expanded="true" signature="41775:42130" ph="..." />
-            <marker date="1517251173000" expanded="true" signature="41810:42116" ph="..." />
-            <marker date="1517251173000" expanded="true" signature="41829:42101" ph="..." />
-            <marker date="1517251173000" expanded="true" signature="41903:42081" ph="..." />
-            <marker date="1517251173000" expanded="true" signature="41943:42047" ph="..." />
-            <marker date="1517251173000" expanded="true" signature="41964:42025" ph="..." />
+            <marker date="1517412387000" expanded="true" signature="55526:55568" ph="..." />
+            <marker date="1517412387000" expanded="true" signature="55526:55586" ph="..." />
+            <marker date="1517412387000" expanded="true" signature="55526:55599" ph="..." />
+            <marker date="1517412387000" expanded="true" signature="55526:55614" ph="..." />
+            <marker date="1517412387000" expanded="true" signature="55649:56032" ph="..." />
+            <marker date="1517412387000" expanded="true" signature="55662:56017" ph="..." />
+            <marker date="1517412387000" expanded="true" signature="55697:56003" ph="..." />
+            <marker date="1517412387000" expanded="true" signature="55716:55988" ph="..." />
+            <marker date="1517412387000" expanded="true" signature="55790:55968" ph="..." />
+            <marker date="1517412387000" expanded="true" signature="55830:55934" ph="..." />
+            <marker date="1517412387000" expanded="true" signature="55851:55912" ph="..." />
           </folding>
         </state>
       </provider>
@@ -571,14 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -603,42 +626,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/src/safety/elvisOperator.kts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/src/safety/nullableExtensions.kts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/src/other/delegation.kts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/src/other/operatorOverloading.kts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/src/other/destructuring.kts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -651,10 +642,186 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/basics/variables.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/basics/numericTypes.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/basics/strings.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="33" column="36" lean-forward="false" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/basics/equality.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/basics/comments.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/functions/functions.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/basics/conditionals.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/basics/loops.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/basics/returnBreakContinue.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/functions/lambdas.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="68" column="5" lean-forward="true" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/oo/classes.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-166">
+          <caret line="58" column="10" lean-forward="false" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/oo/properties.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/oo/interfaces2.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/oo/interfaces1.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/oo/dataClasses.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/basics/generics.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/functions/extensionFunctions.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/oo/objects1.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/oo/objects2.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="31" column="30" lean-forward="false" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/src/safety/nullableTypes.kts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/safety/nullChecks.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-299">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/safety/elvisOperator.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/safety/nullableExtensions.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -675,10 +842,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/src/safety/nullChecks.kts">
+    <entry file="file://$PROJECT_DIR$/scripts/src/other/delegation.kts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="40" column="24" lean-forward="false" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        <state relative-caret-position="247">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/other/destructuring.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="28" column="43" lean-forward="false" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/functions/generics.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/basics/booleans.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/basics/collections.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/functions/reified.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/src/functions/inline.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book-store/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book-store/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book-store/src/main/kotlin/io/rickfast/books/BookStore.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>

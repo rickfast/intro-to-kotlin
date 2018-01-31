@@ -50,7 +50,7 @@ run {
 
 run {
     val list = listOf(2, 1)
-    Collections.sort(list, { o1, o2 -> o1.compareTo(o2) })
+    java.util.Collections.sort(list, { o1, o2 -> o1.compareTo(o2) })
 }
 
 run {

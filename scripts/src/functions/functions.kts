@@ -1,5 +1,6 @@
 package functions
 
+// Functions
 run {
     fun cube(x: Int): Int {
         return x * x * x
@@ -22,7 +23,7 @@ run {
     }
 }
 
-// Default parameters
+// Default arguments
 fun findEvens(numbers: List<Int>, maxResults: Int = 5): List<Int> {
     val result = mutableListOf<Int>()
     var count = 0

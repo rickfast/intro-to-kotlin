@@ -1,6 +1,6 @@
 package basics
 
-// referential
+// Referential
 run {
     val x = "hello"
     val y = x
@@ -11,7 +11,7 @@ run {
     println(x === z)
 }
 
-// structural
+// Structural
 run {
     val x = "hello"
     val y = x

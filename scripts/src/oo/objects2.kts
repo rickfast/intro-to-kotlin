@@ -23,22 +23,10 @@ attachHandler(object : Handler {
     override fun onError(error: Throwable) = error.printStackTrace()
 })
 
-run {
-    class Widget {
-        companion object Factory {
-            fun create(): Widget = Widget()
-        }
+class Widget {
+    companion object Factory {
+        fun create(): Widget = Widget()
     }
-
-    val myWidget = Widget.create()
 }
 
-run {
-    class Widget {
-        companion object {
-            fun create(): Widget = Widget()
-        }
-    }
-
-    val myWidget = Widget.create()
-}
+val myWidget = Widget.create()
