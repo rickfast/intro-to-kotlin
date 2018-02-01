@@ -1,3 +1,5 @@
 .idea/libraries/Maven*
 .DS_Store
 book-store/target
+.idea
+*.iml

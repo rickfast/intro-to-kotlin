@@ -18,23 +18,24 @@ class BookStore {
     @Bean
     fun routerFunction(bookService: BookService): RouterFunction<ServerResponse> = router {
         ("/books").nest {
-            GET("") {
-                json(bookService.findBooks(it.queryParam("genre").orElse(null)))
+            GET("") { req ->
+                json(bookService.findBooks(req.queryParam("genre").orElse(null)))
             }
             GET("/{id}") {
                 json(bookService.findBookById(it.pathVariable("id").toInt()))
             }
-            GET("/bad") {
+            GET("/bad") { _ ->
                 json(bookService.findAuthorsWithNoBooks())
             }
         }
-        ("/authors").nest {
-            GET("/{id}") {
-                json(bookService.findAuthorById(it.pathVariable("id").toInt()))
-            }
+        GET ("/authors/{id}") {
+            json(bookService.findAuthorById(it.pathVariable("id").toInt()))
         }
-        GET("/catalog") {
+        GET("/catalog") { _ ->
             json(bookService.getFullCatalog())
+        }
+        GET("/titles") { _ ->
+            json(bookService.getAllTitles())
         }
     }
 }
